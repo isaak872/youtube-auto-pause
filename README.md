@@ -1,2 +1,9 @@
-# youtube-auto-pause
- YouTube Auto Pause (Beta)  Automatically pauses YouTube when you switch tabs and resumes with a 10‑second rewind when you return.  Early beta version focused on YouTube. Some edge cases may still need improvement.
+
+# Media Auto Pause (Beta)
+
+Automatically pauses videos when switching tabs and resumes playback when you return.
+
+Supports YouTube, Netflix, Twitter (X), and Spotify (browser).
+
+⚠️ Early beta — some edge cases may still need improvement.
+
